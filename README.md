@@ -33,7 +33,7 @@ it's all free, don't be stingy ⭐️ yes: D
 </div>
 
 ## Information
-- Change vcard contacts on [this file](https://github.com/wempy24/bot-termux/blob/main/index.js#L90)
+- Change vcard contacts on [this file](https://github.com/wempy24/bot-termux/blob/main/index.js#L106)
 - Change Options on [this section](https://github.com/wempy24/bot-termux/blob/main/options/option.json)
 - Change menu on [this folders](https://github.com/wempy24/bot-termux/tree/main/database/menu)
 
