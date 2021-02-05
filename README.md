@@ -32,6 +32,11 @@ it's all free, don't be stingy ⭐️ yes: D
 <p align="center"><a href="https://wa.me/6285746897368" target="_blank">Chat me on Whatsapp</a>.</p>
 </div>
 
+## Information
+- Change vcard contacts on [this file](https://github.com/wempy24/bot-termux/blob/main/index.js#L90)
+- Change Options on [this section](https://github.com/wempy24/bot-termux/blob/main/options/option.json)
+- Change menu on [this folders](https://github.com/wempy24/bot-termux/tree/main/database/menu)
+
 ## GETTING STARTED
 
 This project require Termux.
