@@ -81,8 +81,8 @@ This script is modified with my own WEM
 > $ termux-setup-storage
 > $ pkg install python
 > $ pkh install python2
-> $ git clone https://github.com/wempy24/bottermux
-> $ cd bottermux
+> $ git clone https://github.com/wempy24/bot-termux
+> $ cd bot-termux
 > $ python install.py
 > $ bash install.sh
 > $ node index.js
