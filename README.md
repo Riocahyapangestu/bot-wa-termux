@@ -35,7 +35,7 @@ it's all free, don't be stingy ⭐️ yes: D
 ## Information
 - Change vcard contacts on [this file](https://github.com/wempy24/bot-termux/blob/main/index.js#L106)
 - Change Options on [this section](https://github.com/wempy24/bot-termux/blob/main/settings/setting.json)
-- Change menu on [this folders](https://github.com/wempy24/bot-termux/tree/main/database/menu)
+- Change menu on [this folders](https://github.com/wempy24/bot-termux/tree/main/database/menu/help.js)
 
 ## GETTING STARTED
 
